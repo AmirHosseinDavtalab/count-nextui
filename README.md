@@ -4,6 +4,11 @@ This is a template for creating applications using Next.js 14 (app directory) an
 
 [Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
 
+preview :
+![count vowels](https://github.com/user-attachments/assets/531732fa-356c-4b46-aad3-203cb9409131)
+![Reverse Word](https://github.com/user-attachments/assets/8f0a6363-56f5-4bb6-b8b4-4a499e61e5a9)
+
+
 ## Technologies Used
 
 - [Next.js 14](https://nextjs.org/docs/getting-started)
